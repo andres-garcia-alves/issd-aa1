@@ -1,20 +1,32 @@
 # ISSD - AA1
 
-Repo para la materia Aprendizaje Automático 1.
+&nbsp;
+
+Repo para la materia **Aprendizaje Automático 1**.
+
+### Instituto Superior Santo Domingo (ISSD)
+### [Tecnicatura en Inteligencia Artificial y Ciencia de Datos](https://issd.edu.ar/es/inteligencia-artificial-ciencia-datos/).
 
 &nbsp;
 
 ### Contenido
 
+- Clase 02 - Carga de Datasets
 - Clase 02 - Ejercicios Resueltos
-- <Descripción 02>
-- <Descripción 03>
+- Clase 02 - Preprocesamiento Dataset Titanic
+- Clase 03 - Regresion Lineal Simple
+- Clase 03 - Regresion Lineal Multiple
+- Clase 04 - Underfitting & Overfitting
+- Clase 04 - Cross Validation - Regresion Lineal Multiple
+- Clase 05 - Clustering K-Means & Metricas Varias
+- Clase 05 - Reduccion Dimensionalidad PCA, T-SNE y UMAP
 
 &nbsp;
 
 ### Historial de Versiones
 
 v1.0.0 (2025.03.27) - Versión inicial.  
-v1.0.1 (2025.04.01) - Agrego notebook 'Clase 02 - Ejercicios Resueltos'.  
+v1.0.1 (2025.04.01) - Agrego notebook de ejercicios de la Clase 02.  
+v1.0.2 (2025.04.27) - Agrego notebooks de las Clase 02 a 05.
 
 &nbsp;
