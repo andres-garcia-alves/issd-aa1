@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Repo para la materia **Aprendizaje Automático 1**.
+### Repo para la materia **Aprendizaje Automático 1**.
 
 ### Instituto Superior Santo Domingo (ISSD)
 ### [Tecnicatura en Inteligencia Artificial y Ciencia de Datos](https://issd.edu.ar/es/inteligencia-artificial-ciencia-datos/).
