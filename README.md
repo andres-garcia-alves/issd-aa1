@@ -28,7 +28,7 @@
 
 v1.0.0 (2025.03.27) - Versión inicial.  
 v1.0.1 (2025.04.01) - Agrego notebook de ejercicios de la Clase 02.  
-v1.0.2 (2025.04.27) - Agrego notebooks de las Clase 02 a 05.
+v1.0.2 (2025.04.27) - Agrego notebooks de las Clase 02 a 05.  
 v1.0.3 (2025.04.29) - Agrego Trabajo Practico 01.
 
 &nbsp;
