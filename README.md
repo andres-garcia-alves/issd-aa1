@@ -24,6 +24,7 @@
 - Clase 06 - Clasificacion Binaria
 - Clase 06 - Naive Bayes
 - Clase 06 - Deteccion de Spam
+- Clase 07 - Regularización
 
 
 &nbsp;
@@ -34,6 +35,6 @@ v1.0.0 (2025.03.27) - Versión inicial.
 v1.0.1 (2025.04.01) - Agrego notebook de ejercicios de la Clase 02.  
 v1.0.2 (2025.04.27) - Agrego notebooks de las Clase 02 a 05.  
 v1.0.3 (2025.04.29) - Agrego Trabajo Practico 01.  
-v1.0.4 (2025.05.07) - Agrego notebooks de la Clase 06.  
+v1.0.4 (2025.05.07) - Agrego notebooks de las Clase 06 a 07.  
 
 &nbsp;
