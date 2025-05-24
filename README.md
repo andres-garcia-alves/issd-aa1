@@ -21,7 +21,7 @@
 - Clase 05 - Clustering K-Means & Metricas Varias
 - Clase 05 - Reduccion Dimensionalidad PCA, T-SNE y UMAP
 - Trabajo Practico 01 - Regresion Lineal
-- Clase 06 - Clasificacion Binaria
+- Clase 06 - Clasificacion Binaria & Metricas
 - Clase 06 - Naive Bayes
 - Clase 06 - Deteccion de Spam
 - Clase 07 - Regularizacion, Preprocesamiento & Pipelines
