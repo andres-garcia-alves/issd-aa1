@@ -27,6 +27,7 @@
 - Clase 07 - Regularizacion, Preprocesamiento & Pipelines
 - Trabajo Practico 02 - Clustering & Reducción Dimensionalidad
 - Trabajo Practico 04 - Redes Neuronales
+- Trabajo Practico 03 - Clasificación
 
 &nbsp;
 
@@ -39,5 +40,6 @@ v1.0.3 (2025.04.29) - Agrego Trabajo Practico 01.
 v1.0.4 (2025.05.07) - Agrego notebooks de las Clase 06 a 07.  
 v1.0.5 (2025.05.12) - Agrego Trabajo Practico 02.  
 v1.0.6 (2025.05.23) - Agrego Trabajo Practico 04.  
+v1.0.7 (2025.05.26) - Agrego Trabajo Practico 03.  
 
 &nbsp;
